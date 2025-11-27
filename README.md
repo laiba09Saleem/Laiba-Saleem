@@ -27,7 +27,7 @@ Strong foundation in programming, databases, data structures, software engineeri
 
 ### 🚀 Languages & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,sqlite,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,sqlite,docker,postman,html,css,js,bootstrap,react,tailwind, git,github,vscode,aws, angular,flutter" />
 </p>
 
 ### 🎨 Frontend
