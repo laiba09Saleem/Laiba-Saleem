@@ -26,32 +26,19 @@ Strong foundation in programming, databases, data structures, software engineeri
 ## 🛠️ **Technical Skills**
 
 ### **Backend & Languages**
-<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,docker" />
-
-- Python  
-- Django  
-- Django REST Framework  
-- REST APIs  
-- SQLite, MySQL, PostgreSQL  
-- ORM Development  
-- Docker  
-- CI/CD Pipelines  
-- AWS (Basics)
+<center>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,docker" />
+</center>
 
 ### **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
-
-- HTML5, CSS3  
-- JavaScript (ES6)  
-- Bootstrap  
-- React  
-- Tailwind CSS  
-- Angular (Basic)  
-- Flutter (Basic UI)
+<center>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
+</center>
 
 ### **Version Control & Tools**
-<img src="https://skillicons.dev/icons?i=git,github" />
-
+<center>
+    <img src="https://skillicons.dev/icons?i=git,github" />
+</center>
 - Git & GitHub  
 - Jira  
 - Slack  
