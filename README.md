@@ -1,72 +1,134 @@
-<h1 align="center">Hi Laiba here! 👋</h1>
-<h3 align="center">Full Stack Web Developer | Passionate Learner | Tech Enthusiast</h3>
+<h1 align="center">Hi, I'm Laiba Saleem 👋</h1>
+<h3 align="center">Python Developer | Django & REST APIs | Backend Engineer</h3>
 
----
-
-### 👩‍💻 About Me
-- 🎓 Final Year Student building real-world projects  
-- 💡 Passionate about **Frontend + Backend Development**
-- 🚀 Currently working on **Modern Web Apps** using PHP, MySQL & JavaScript  
-- 💻 Love creating clean UI and solving problems  
-- 🌱 Learning **APIs, JavaScript ES6, MVC, Laravel Basics**  
-- ⚡ Goal: Becoming a skilled Full Stack Developer  
-
----
-
-### 🛠️ Skills & Tech Stack
-
-#### **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-
-#### **Backend**
-<img src="https://skillicons.dev/icons?i=php,mysql" />
-
-#### **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
----
-
-### 🏆 Achievements
-- ✔ Built multiple academic + personal projects  
-- ✔ Strong understanding of UI design  
-- ✔ Working on full-stack application development  
-
----
-
-### 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laiba09Saleem&show_icons=true&theme=tokyonight&hide_border=false" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba09Saleem&layout=compact&theme=tokyonight&hide_border=false" />
+  <a href="mailto:laibasaleem068@gmail.com">📧 Email</a> •
+  <a href="https://github.com/laiba09Saleem">💻 GitHub</a> •
+  <a href="https://linkedin.com/in/laiba-s">🔗 LinkedIn</a>
 </p>
 
 ---
 
-### 🔥 Contribution Graph
+## 🔍 **Profile Summary**
+Python developer focused on building scalable, secure, and high-performance backend systems using **Django & Django REST Framework**.  
+Experienced in delivering **core product features**, working in **Agile teams**, integrating APIs, and improving application performance.  
+Passionate about backend engineering, cloud deployment, and solving real-world problems with clean architecture.
+
+---
+
+## 🎓 **Education**
+**BS in Computer Science**  
+**Punjab University (2021 – 2025)**  
+Strong foundation in programming, databases, data structures, software engineering, networking & modern web technologies.
+
+---
+
+## 🛠️ **Technical Skills**
+
+### **Backend & Languages**
+<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,docker" />
+
+- Python  
+- Django  
+- Django REST Framework  
+- REST APIs  
+- SQLite, MySQL, PostgreSQL  
+- ORM Development  
+- Docker  
+- CI/CD Pipelines  
+- AWS (Basics)
+
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
+
+- HTML5, CSS3  
+- JavaScript (ES6)  
+- Bootstrap  
+- React  
+- Tailwind CSS  
+- Angular (Basic)  
+- Flutter (Basic UI)
+
+### **Version Control & Tools**
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+- Git & GitHub  
+- Jira  
+- Slack  
+- Agile Workflow  
+- Scrum Team Collaboration  
+
+---
+
+## 💼 **Professional Experience**
+
+### **Software Engineering Intern – MatchVet (SMC Pvt Ltd)**  
+**08/2025 – Present | Remote**
+
+- Developed and shipped major features for a live veterinary care application  
+  ➤ Checkout flow, Pet Active Appointments, Vet Services screens (Angular)  
+- Converted **10+ Angular screens to Flutter UI**, improving responsiveness & UX  
+- Integrated **backend APIs** using Django REST Framework under senior guidance  
+- Actively participated in **Agile sprints**, Git/GitHub workflows & code reviews  
+- Collaborated with cross-functional teams for requirements and product improvements  
+
+---
+
+## 🚀 **Projects**
+
+### 🟣 **VEMS360 – Full-Stack Event Management System**  
+**Tech:** Python, Django, MySQL, HTML, CSS, JavaScript, Bootstrap  
+- Developed complete system as **team lead & core contributor**  
+- Built modules for **event registration, booking, ticketing, streaming placeholders**  
+- Overcame challenges in **Google authentication** & **payment integration**  
+- Designed UI, wrote documentation, and managed task assignments & meetings  
+
+---
+
+### 🟦 **Personal Portfolio Website**  
+**Tech:** HTML, CSS, JavaScript, Boxicons, ScrollReveal.js, Typed.js  
+- Built responsive portfolio with animations and smooth UI transitions  
+- Added **scroll animations, typing effects, project showcases, skill bars**  
+- Includes downloadable CV and social media links  
+
+---
+
+### 🟩 **Quiz App – Django Project**  
+**Tech:** Python, Django, SQLite, HTML, CSS, JavaScript  
+- Users can create quizzes, attempt tests, view scores & leaderboard  
+- Designed clean database model relations using Django ORM  
+- Implemented authentication, scoring logic & history tracking  
+
+---
+
+## 📊 **GitHub Analytics**
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=laiba09Saleem&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba09Saleem&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 🔥 **Contribution Streak**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laiba09Saleem&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
-### 📁 Featured Projects (Auto from Your GitHub)
-- ✔ Project 1  
-- ✔ Project 2  
-- ✔ Project 3  
-(Add here manually when you want to highlight your main work)
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/laiba09Saleem">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
+## 🤝 **Connect with Me**
+<p>
+  <a href="mailto:laibasaleem068@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  <a href="https://github.com/laiba09Saleem">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/laiba-s">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">✨ Thank You for Visiting My Profile ✨</h3>
+<h3 align="center">✨ Thanks for visiting my GitHub profile! ✨</h3>
