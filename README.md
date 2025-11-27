@@ -26,25 +26,9 @@ Strong foundation in programming, databases, data structures, software engineeri
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages & Backend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,sqlite,docker,postman,html,css,js,bootstrap,react,tailwind, git,github,vscode,aws, angular,flutter" />
 </p>
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
-</p>
-
-### 🧰 Tools & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws" />
-</p>
-
-### 📚 Additional Exposure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,flutter" />
-</p>
-
 
 ---
 
