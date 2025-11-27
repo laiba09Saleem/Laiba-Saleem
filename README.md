@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Laiba Saleem 👋</h1>
 <h3 align="center">Python Developer | Django & REST APIs | Backend Engineer</h3>
 
-<p align="center">
-  <a href="mailto:laibasaleem068@gmail.com">📧 Email</a> •
-  <a href="https://github.com/laiba09Saleem">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/laiba-s">🔗 LinkedIn</a>
-</p>
-
 ---
 
 ## 🔍 **Profile Summary**
@@ -89,7 +83,7 @@ Strong foundation in programming, databases, data structures, software engineeri
 ---
 
 ## 🤝 **Connect with Me**
-<p>
+<p align="center">
   <a href="mailto:laibasaleem068@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
