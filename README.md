@@ -23,27 +23,28 @@ Strong foundation in programming, databases, data structures, software engineeri
 
 ---
 
-## 🛠️ **Technical Skills**
+## 🛠️ Tech Stack
 
-### **Backend & Languages**
-<center>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,docker" />
-</center>
+### 🚀 Languages & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,sqlite,docker,postman" />
+</p>
 
-### **Frontend**
-<center>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
-</center>
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
+</p>
 
-### **Version Control & Tools**
-<center>
-    <img src="https://skillicons.dev/icons?i=git,github" />
-</center>
-- Git & GitHub  
-- Jira  
-- Slack  
-- Agile Workflow  
-- Scrum Team Collaboration  
+### 🧰 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws" />
+</p>
+
+### 📚 Additional Exposure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,flutter" />
+</p>
+
 
 ---
 
