@@ -26,7 +26,7 @@ Strong foundation in programming, databases, data structures, software engineeri
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,restapi,postgres,mysql,sqlite,docker,postman,html,css,js,bootstrap,react,tailwind,git,github,vscode,aws,angular,flutter" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,docker,postman,html,css,js,bootstrap,react,tailwind,git,github,vscode,aws,angular,flutter" />
 </p>
 
 
