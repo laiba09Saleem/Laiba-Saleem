@@ -77,7 +77,7 @@ Strong foundation in programming, databases, data structures, software engineeri
 
 ## 🔥 **Contribution Streak**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laiba09Saleem&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=laiba09Saleem&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
